@@ -223,8 +223,5 @@ Contact:
 ![bprd](bprd.jpg)
 ![bprd](about.jpg)
 ![bprd](People.jpg)
-### Home Page:
-
-
 ## Result:
-
+Thus the given project is created successfully
